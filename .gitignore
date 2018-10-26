@@ -1,0 +1,14 @@
+venv-py3.7-flask-1.0.2/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
